@@ -1,0 +1,132 @@
+[
+  {
+    "id": "BYU1",
+    "price": 2100,
+    "name": "By.U 1.000"
+  },
+  {
+    "id": "BYU10",
+    "price": 10482,
+    "name": "By.U 10.000"
+  },
+  {
+    "id": "BYU100",
+    "price": 99345,
+    "name": "By.U 100.000"
+  },
+  {
+    "id": "BYU15",
+    "price": 15385,
+    "name": "By.U 15.000"
+  },
+  {
+    "id": "BYU20",
+    "price": 20290,
+    "name": "By.U 20.000"
+  },
+  {
+    "id": "BYU25",
+    "price": 25235,
+    "name": "By.U 25.000"
+  },
+  {
+    "id": "BYU3",
+    "price": 3970,
+    "name": "By.U 3.000"
+  },
+  {
+    "id": "BYU30",
+    "price": 30275,
+    "name": "By.U 30.000"
+  },
+  {
+    "id": "BYU35",
+    "price": 35210,
+    "name": "By.U 35.000"
+  },
+  {
+    "id": "BYU4",
+    "price": 4970,
+    "name": "By.U 4.000"
+  },
+  {
+    "id": "BYU40",
+    "price": 40175,
+    "name": "By.U 40.000"
+  },
+  {
+    "id": "BYU5",
+    "price": 5530,
+    "name": "By.U 5.000"
+  },
+  {
+    "id": "BYU50",
+    "price": 50060,
+    "name": "By.U 50.000"
+  },
+  {
+    "id": "BYU55",
+    "price": 54900,
+    "name": "By.U 55.000"
+  },
+  {
+    "id": "BYU6",
+    "price": 7005,
+    "name": "By.U 6.000"
+  },
+  {
+    "id": "BYU60",
+    "price": 60000,
+    "name": "By.U 60.000"
+  },
+  {
+    "id": "BYU65",
+    "price": 65325,
+    "name": "By.U 65.000"
+  },
+  {
+    "id": "BYU7",
+    "price": 8005,
+    "name": "By.U 7.000"
+  },
+  {
+    "id": "BYU70",
+    "price": 70325,
+    "name": "By.U 70.000"
+  },
+  {
+    "id": "BYU75",
+    "price": 75325,
+    "name": "By.U 75.000"
+  },
+  {
+    "id": "BYU8",
+    "price": 9005,
+    "name": "By.U 8.000"
+  },
+  {
+    "id": "BYU80",
+    "price": 80325,
+    "name": "By.U 80.000"
+  },
+  {
+    "id": "BYU85",
+    "price": 85325,
+    "name": "By.U 85.000"
+  },
+  {
+    "id": "BYU9",
+    "price": 10030,
+    "name": "By.U 9.000"
+  },
+  {
+    "id": "BYU90",
+    "price": 90325,
+    "name": "By.U 90.000"
+  },
+  {
+    "id": "BYU95",
+    "price": 95470,
+    "name": "By.U 95.000"
+  }
+]

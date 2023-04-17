@@ -1,0 +1,87 @@
+[
+  {
+    "id": "I102",
+    "price": 10900,
+    "name": "Indosat 10.000"
+  },
+  {
+    "id": "I10",
+    "price": 10914,
+    "name": "Indosat 10.000"
+  },
+  {
+    "id": "I100",
+    "price": 96875,
+    "name": "Indosat 100.000"
+  },
+  {
+    "id": "I12",
+    "price": 12250,
+    "name": "Indosat 12.000"
+  },
+  {
+    "id": "I125",
+    "price": 123416,
+    "name": "Indosat 125.000"
+  },
+  {
+    "id": "I15",
+    "price": 14885,
+    "name": "Indosat 15.000"
+  },
+  {
+    "id": "I150",
+    "price": 143625,
+    "name": "Indosat 150.000"
+  },
+  {
+    "id": "I20",
+    "price": 19910,
+    "name": "Indosat 20.000"
+  },
+  {
+    "id": "I25",
+    "price": 24980,
+    "name": "Indosat 25.000"
+  },
+  {
+    "id": "I30",
+    "price": 29490,
+    "name": "Indosat 30.000"
+  },
+  {
+    "id": "I40",
+    "price": 39190,
+    "name": "Indosat 40.000"
+  },
+  {
+    "id": "IP5",
+    "price": 5970,
+    "name": "Indosat 5.000"
+  },
+  {
+    "id": "IM5",
+    "price": 5973,
+    "name": "Indosat 5.000"
+  },
+  {
+    "id": "I50",
+    "price": 49120,
+    "name": "Indosat 50.000"
+  },
+  {
+    "id": "I60",
+    "price": 58875,
+    "name": "Indosat 60.000"
+  },
+  {
+    "id": "I80",
+    "price": 77975,
+    "name": "Indosat 80.000"
+  },
+  {
+    "id": "I90",
+    "price": 87250,
+    "name": "Indosat 90.000"
+  }
+]

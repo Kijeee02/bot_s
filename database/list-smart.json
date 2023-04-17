@@ -1,0 +1,57 @@
+[
+  {
+    "id": "SMT10",
+    "price": 10070,
+    "name": "Smart 10.000"
+  },
+  {
+    "id": "SMT100",
+    "price": 96500,
+    "name": "Smart 100.000"
+  },
+  {
+    "id": "SMT15",
+    "price": 15020,
+    "name": "Smart 15.000"
+  },
+  {
+    "id": "SMT150",
+    "price": 148225,
+    "name": "Smart 150.000"
+  },
+  {
+    "id": "SMT20",
+    "price": 19840,
+    "name": "Smart 20.000"
+  },
+  {
+    "id": "SMT25",
+    "price": 24625,
+    "name": "Smart 25.000"
+  },
+  {
+    "id": "SMT30",
+    "price": 29725,
+    "name": "Smart 30.000"
+  },
+  {
+    "id": "SMT5",
+    "price": 5190,
+    "name": "Smart 5.000"
+  },
+  {
+    "id": "SMT50",
+    "price": 48795,
+    "name": "Smart 50.000"
+  },
+  {
+    "id": "SMT60",
+    "price": 58775,
+    "name": "Smart 60.000"
+  },
+  {
+    "id": "SMT75",
+    "price": 73795,
+    "name": "Smart 75.000"
+  }
+]

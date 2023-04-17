@@ -1,0 +1,94 @@
+[
+  {
+    "jid": "6283831157558@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 16
+      },
+      {
+        "nama": "#owner",
+        "count": 11
+      },
+      {
+        "nama": "#balance",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#topbalance",
+        "count": 1
+      },
+      {
+        "nama": "#igstalk",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "jid": "6281289793446@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 7
+      },
+      {
+        "nama": "#owner",
+        "count": 7
+      },
+      {
+        "nama": "#s",
+        "count": 1
+      },
+      {
+        "nama": "#toimage",
+        "count": 1
+      },
+      {
+        "nama": "#toimg",
+        "count": 1
+      },
+      {
+        "nama": "#add",
+        "count": 1
+      },
+      {
+        "nama": "#promote",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282275639713@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6282123188567@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#upvote",
+        "count": 1
+      },
+      {
+        "nama": "#promote",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#owner",
+        "count": 1
+      }
+    ]
+  }
+]

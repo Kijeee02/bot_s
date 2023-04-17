@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6282275639713@s.whatsapp.net"],
+  "ownerName": ["Kijeee"],
+  "botName": "IMPSTR Bot",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Manik.jpg",
+  "komisi": 100,
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
